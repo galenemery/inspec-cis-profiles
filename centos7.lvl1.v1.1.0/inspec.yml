@@ -1,0 +1,4 @@
+name: 'cis-centos7-level1'
+version: '1.0.0'
+scap:
+  profile: Level 1

@@ -1,0 +1,7 @@
+name 'stig'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures stig'
+long_description 'Installs/Configures stig'
+version '0.1.0'
